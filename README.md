@@ -9,10 +9,6 @@ I wanna be a software developer, interested in building practical applications, 
 - Exploring Object-Oriented Programming and Web Development.
 - Focused on learning, building, and improving.
 
-### Currently Working On
-- **Student Academic Performance Analytics System** — Java
-- **Smart Course Recommendation System** — Python
-
 ### Tech Stack
 `Java` `Python` `C` `HTML` `CSS`
 
