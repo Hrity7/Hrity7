@@ -1,8 +1,8 @@
 # Hritwiz Verma
 
-**Software Developer | Java | Python | C**
+**Java | Python | C**
 
-I'm a software developer interested in building practical applications, solving problems, and exploring new technologies.
+I wanna be a software developer, interested in building practical applications, solving problems, and exploring new technologies.
 
 ### About
 - Interested in Software Development and Artificial Intelligence.
